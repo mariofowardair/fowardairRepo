@@ -1,0 +1,104 @@
+.daContent1 {
+    background-color: #1f2937;
+    color: white;
+    width: 100%;
+    height: 80px;
+
+}
+
+.daContent2 {
+    background-color: #1f2937;
+    color: white;
+    width: 100%;
+    height: 300px;
+}
+
+.flex1 {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.links {
+    margin-left: 30px;
+}
+
+.leftHeader {
+    flex: 1 1 0;
+    text-align: center;
+}
+
+.rightHeader {
+    display: flex;
+    flex: 1 1 0;
+    justify-content: center;
+}
+
+.headerBelowLeft {
+    margin: 15px;
+}
+
+.imajis {
+    display: flex;
+    justify-content: center;
+}
+
+.imageHolder {
+    margin: 15px;
+}
+
+.info {
+    text-align: center;
+}
+
+.thirdPart {
+    flex-direction: column;
+    background-color: #e5e7eb;
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fourTH {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fourthInside {
+    background-color: #3882f6;
+    width: 50%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.signUp {
+    margin: 20px;
+}
+
+.button {
+    border-color: white;
+    border-style: solid;
+    padding: 5px;
+}
+
+.feet {
+    background-color: #1f2937; 
+    width: 100%;
+    height: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
